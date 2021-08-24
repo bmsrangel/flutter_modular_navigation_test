@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "139305281267",
+    "firebase_url": "https://fir-emulator-53081.firebaseio.com",
+    "project_id": "fir-emulator-53081",
+    "storage_bucket": "fir-emulator-53081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139305281267:android:66ba4c9b7f3c3d75273986",
+        "android_client_info": {
+          "package_name": "br.com.bmsrangel.dev.emulator_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139305281267-fvr19d6qkeqih3t4unb23gvk71m3pan4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJH7E-vgF5XB_H7RhHVdZ6QpwTWt5xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139305281267-fvr19d6qkeqih3t4unb23gvk71m3pan4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139305281267:android:61399e32e310bcaa273986",
+        "android_client_info": {
+          "package_name": "br.com.bmsrangel.dev.projeto_teste_modular_triple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139305281267-fvr19d6qkeqih3t4unb23gvk71m3pan4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJH7E-vgF5XB_H7RhHVdZ6QpwTWt5xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139305281267-fvr19d6qkeqih3t4unb23gvk71m3pan4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
